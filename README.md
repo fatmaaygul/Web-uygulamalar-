@@ -1,2 +1,2 @@
 # Web-uygulamalar-
-Web uygulamaları
+Web uygulamaları test reposu
